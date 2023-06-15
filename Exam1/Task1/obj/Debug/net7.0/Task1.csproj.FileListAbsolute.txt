@@ -1,0 +1,15 @@
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\bin\Debug\net7.0\Task1.exe
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\bin\Debug\net7.0\Task1.deps.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\bin\Debug\net7.0\Task1.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\bin\Debug\net7.0\Task1.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\refint\Task1.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Exam1\Task1\obj\Debug\net7.0\ref\Task1.dll
