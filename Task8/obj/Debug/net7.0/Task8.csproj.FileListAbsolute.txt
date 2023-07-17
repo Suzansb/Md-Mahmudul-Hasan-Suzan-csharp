@@ -1,0 +1,15 @@
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.csproj.AssemblyReference.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.AssemblyInfoInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.AssemblyInfo.cs
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.csproj.CoreCompileInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\bin\Debug\net7.0\Task8.exe
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\bin\Debug\net7.0\Task8.deps.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\bin\Debug\net7.0\Task8.runtimeconfig.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\bin\Debug\net7.0\Task8.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\bin\Debug\net7.0\Task8.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\refint\Task8.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\Task8.genruntimeconfig.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task8\obj\Debug\net7.0\ref\Task8.dll
