@@ -1,0 +1,15 @@
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\bin\Debug\net7.0\Task4.exe
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\bin\Debug\net7.0\Task4.deps.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\bin\Debug\net7.0\Task4.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\bin\Debug\net7.0\Task4.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.csproj.AssemblyReference.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\refint\Task4.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task4\obj\Debug\net7.0\ref\Task4.dll

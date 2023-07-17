@@ -1,0 +1,15 @@
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\bin\Debug\net7.0\Task5.exe
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\bin\Debug\net7.0\Task5.deps.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\bin\Debug\net7.0\Task5.runtimeconfig.json
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\bin\Debug\net7.0\Task5.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\bin\Debug\net7.0\Task5.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.csproj.AssemblyReference.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.AssemblyInfoInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.AssemblyInfo.cs
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.csproj.CoreCompileInputs.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\refint\Task5.dll
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.pdb
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\Task5.genruntimeconfig.cache
+W:\Courses\C#\Md-Mahmudul-Hasan-Suzan-csharp\Task5\obj\Debug\net7.0\ref\Task5.dll
